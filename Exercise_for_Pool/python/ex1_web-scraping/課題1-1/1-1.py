@@ -103,4 +103,4 @@ for i in range(max_page_index):
 
 
 df = pd.DataFrame(d_list)
-df.to_csv('sample.csv', index=None, encoding='utf-8-sig')
+df.to_csv('1-1.csv', index=None, encoding='utf-8-sig')
